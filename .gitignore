@@ -1,0 +1,22 @@
+.gradle
+/build/
+/out/
+bin/
+generated/
+generated_tests/
+!gradle/wrapper/gradle-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
